@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page0</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2014-01-06T02:53:39Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>2A94B979-64A0-4243-B3D6-57941A134EE3</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>assets/Engagement Letter.pdf</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					4nXCsjBQQzqXs/kuIyjOZg==
+					</data>
+					<key>Size</key>
+					<integer>40851</integer>
+				</dict>
+				<key>assets/Taxpayers Checklist.pdf</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					q0rXWbLx/2xVkfgY8mHzIg==
+					</data>
+					<key>Size</key>
+					<integer>90303</integer>
+				</dict>
+				<key>files/page0_1.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					gAgQdWV78LwXxVx0DL60Bg==
+					</data>
+					<key>Size</key>
+					<integer>29954</integer>
+				</dict>
+				<key>taxes.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					HMM+/DnePBt53hVz7KCmkA==
+					</data>
+					<key>Size</key>
+					<integer>36789</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page0</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>
