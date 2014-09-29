@@ -7,8 +7,9 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(MathCircleLogo.jpg) no-repeat 3% 20px;
-	margin: 0; 
+	background: #fff url(MathCircleLogo.jpg) no-repeat 10px 20px;
+	margin: 0 auto; 
+	max-width: 700px;
 	padding: 1px;
 	height: 100%;
 	}
@@ -20,7 +21,7 @@ header {
 	height: 150px;
 	padding:  20px 0 70px 0
 
-	background-color:  linen;
+	background-color:  #fff;
 	border: 2px solid;
 	border-radius:  10px;
 
